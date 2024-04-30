@@ -7,4 +7,5 @@ adding_seasonality: adds seasonality as one of the features
 models.py: has all the models used
 Main.ipynb: the main notebook
 
+environment.yml - contains the dependencies and packages used
 
